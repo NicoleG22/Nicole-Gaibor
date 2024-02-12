@@ -80,7 +80,7 @@ sections:
           company_logo: urs
           location: Quito, Ecuador
           date_start: '2022-05-01'
-          date_end: '2022-09-31'
+          date_end: '2022-09-30'
           description: |2-
               Responsibilities include:
               * Monitoring technical processes
