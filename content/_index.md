@@ -92,7 +92,7 @@ sections:
           company_logo: resgasa
           location: Guayaquil, Ecuador
           date_start: '2022-02-03'
-          date_end: '2022-04-31'
+          date_end: '2022-04-30'
           description: |2-
               Responsibilities include:
               * Database management and analysis with Excel
