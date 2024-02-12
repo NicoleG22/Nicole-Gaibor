@@ -62,27 +62,53 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Project Analyst
+          company: Unidad del Registro Social
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: urs
+          location: Quito, Ecuador
+          date_start: '2022-10-01'
+          date_end: '2023-12-31'
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Econometric analysis for poverty research
+              * Indicators modeling: poverty, population, malnutrition, housing and basic services
+              * Proposal of a identification model for improve of validation process using machine learning
+        - title: Technical Department Assistant
+          company: Unidad del Registro Social
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: urs
+          location: Quito, Ecuador
+          date_start: '2022-05-01'
+          date_end: '2022-09-31'
+          description: |2-
+              Responsibilities include:
+              * Monitoring technical processes
+              * Follow-ups inter-institutional agreements
+              * Database review and analysis for reporting
+        - title: Sales Analyst
+          company: RES.GA.SA
+          company_url: ''
+          company_logo: resgasa
+          location: Guayaquil, Ecuador
+          date_start: '2022-02-03'
+          date_end: '2022-04-31'
+          description: |2-
+              Responsibilities include:
+              * Database management and analysis with Excel
+              * Elaboration of daily sales report
+              * Elaboration of Dashboard with sales information using Power BI
+        - title: Jr. Data Analyst
+          company: Inteligencia Empresarial
+          company_url: ''
+          company_logo: ie
+          location: Guayaquil, Ecuador
+          date_start: '2022-09-25'
+          date_end: '2022-10-31'
+          description: |2-
+              Responsibilities include:
+              * Graphing evolution of economic indicators such as sales, unemployment, country risk, etc.
+              * Preparation of daily reports on the economic and political context of the country.
     design:
       columns: '2'
   - block: accomplishments

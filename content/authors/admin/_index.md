@@ -48,12 +48,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -67,12 +67,12 @@ skills:
     items:
       - name: Reading
         description: ''
-        percent: 60
+        percent: 80
         icon: book-open-reader-solid
         icon_pack: fas
       - name: Painting
         description: ''
-        percent: 100
+        percent: 70
         icon: paintbrush-solid
         icon_pack: fas
 
