@@ -98,6 +98,6 @@ social:
 highlight_name: true
 ---
 
-Nicole Gaibor is an Economist with interest in Data Analysis and Machine Learning for decision making process. Her most recent work experience includes the analysis of the information of ecuadorian households and their characteristics in order to classify them according to an poverty index. Also participate in the development of a identification model that helps the institution to improve their identification of people id system that involves an optical character recognition model. Her interests includes machine learning, social analysis and big data.
+Economist with interest in Data Analysis and Machine Learning for decision making process. Her most recent work experience includes the analysis of the information of ecuadorian households and their characteristics in order to classify them according to an poverty index. Also participate in the development of a identification model that helps the institution to improve their identification of people id system that involves an optical character recognition model. 
 
 {style="text-align: justify;"}
