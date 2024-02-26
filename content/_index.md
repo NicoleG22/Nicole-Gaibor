@@ -278,10 +278,10 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: Jose Bosmediano 1082
+        #street: Jose Bosmediano 1082
         city: Quito
         region: Pichincha
-        postcode: '170518'
+        #tabpostcode: '170518'
         country: Ecuador
         country_code: EC
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
@@ -290,8 +290,8 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '-0.1874419'
-        longitude: '-78.4779203'  
+        latitude: '-0.1832848'
+        longitude: '-78.4756162'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
