@@ -54,7 +54,7 @@ url_pdf: 'https://investigacionyestudios.supercias.gob.ec/wp-content/uploads/201
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_source: 'https://investigacionyestudios.supercias.gob.ec/index.php/estudios-sectoriales/'
 # url_video: 'https://youtube.com'
 
 # Featured image
@@ -78,5 +78,5 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 
-slides: example
+#slides: example
 ---
