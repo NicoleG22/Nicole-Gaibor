@@ -124,7 +124,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: M2022-00343-6766
+        - certificate_pdf: /workspaces/Nicole-Gaibor/content/Power BI - Cert.pdf
           date_end: '2022-06-04'
           date_start: '2022-04-23'
           description: 'Development of dashboards for enterprise-wide data analysis.'
@@ -133,7 +133,7 @@ sections:
           organization_url: http://www.cec.espol.edu.ec/
           title: Bussines Intelligence using Power BI
           #url: ''
-        - certificate_url: ude.my/UC-09f2d69b-daf6-478d-8ebd-69e968e35dcc
+        - certificate_url: https://www.udemy.com/certificate/UC-08f2d69b-daf6-478d-8ebd-69e968e35dcc/
           date_end: '2023-03-04'
           date_start: '2023-01-10'
           description: Statistical Analysis using STATA

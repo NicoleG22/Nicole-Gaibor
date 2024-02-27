@@ -1,5 +1,5 @@
 ---
-title: 'Perspectiva de género en los cargos directivos de las empresas ecuatorianas 2013-2018'
+title: 'Gender perspective in management positions in Ecuadorian companies 2013-2018'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

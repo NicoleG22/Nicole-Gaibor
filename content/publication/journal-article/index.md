@@ -1,5 +1,5 @@
 ---
-title: Caso de eliminación de subsidios
+title: Fuel subsidy elimination case study
 authors:
 - admin
 - CADIEC Members
