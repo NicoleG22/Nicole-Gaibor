@@ -13,7 +13,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Database construction, depuration and processing of Database'
+  - 'Construction, depuration and processing of Database'
   - 'Principal Authors'
   - 'Document review and evaluation'
   - 'Document review and evaluation'
