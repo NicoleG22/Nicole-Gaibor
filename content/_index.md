@@ -151,6 +151,15 @@ sections:
           organization_url: https://www.cenecuador.edu.ec/
           title: 'English Course'
           url: ''
+        - certificate_url: https://cert.efset.org/ZCRWw3
+          #date_end: '2020-04-30'
+          date_start: '2024-02-26'
+          description: EF SET English Certificate 67/100 (C1 Advanced)
+          #icon: datacamp
+          organization: Education First
+          organization_url: https://englishlive.ef.com/es/
+          title: 'EF Standard English Test'
+          url: ''
     design:
       columns: '2'
 
