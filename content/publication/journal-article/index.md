@@ -21,7 +21,7 @@ publication_types: ['article-journal']
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: 'CADIEC'
 
-abstract: Este artículo se enfoca en desarrollar los conceptos de los subsidios en el combustible del petróleo y sus derivados, además de dar a conocer el impato que tienen en la Economía del Ecuador; tema el cual ha sido de constante discusión y ha provocado polémicas tales como las protestas ocurridas en octubre 2019. 
+abstract: This article focuses on developing the concepts of subsidies on oil fuel and its derivatives, in addition to making known the impact they have on the economy of Ecuador; a topic which has been constantly discussed and has caused controversy such as the protests that took place in October 2019.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
