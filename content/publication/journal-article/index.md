@@ -1,25 +1,25 @@
 ---
-title: "Caso de eliminación de subsidios"
+title: Caso de eliminación de subsidios
 authors:
 - admin
 - CADIEC Members
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2020-11-06T00:00:00Z"
+- Equal contribution
+- Equal contribution
+date: '2020-11-06T00:00:00Z'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-25T00:00:00Z"
+publishDate: '2021-05-25T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication_short: 'CADIEC'
 
 abstract: Este artículo se enfoca en desarrollar los conceptos de los subsidios en el combustible del petróleo y sus derivados, además de dar a conocer el impato que tienen en la Economía del Ecuador; tema el cual ha sido de constante discusión y ha provocado polémicas tales como las protestas ocurridas en octubre 2019. 
 
@@ -28,7 +28,7 @@ abstract: Este artículo se enfoca en desarrollar los conceptos de los subsidios
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -54,14 +54,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+#projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
