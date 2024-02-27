@@ -124,7 +124,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_pdf: /workspaces/Nicole-Gaibor/content/Power BI - Cert.pdf
+        - certificate_pdf: Power BI - Cert.pdf
           date_end: '2022-06-04'
           date_start: '2022-04-23'
           description: 'Development of dashboards for enterprise-wide data analysis.'
