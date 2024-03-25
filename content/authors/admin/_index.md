@@ -56,6 +56,11 @@ skills:
         percent: 80
         icon: chart-line
         icon_pack: fas
+      - name: RStudio
+        description: ''
+        percent: 45
+        icon: r
+        icon_pack: fas
       - name: SQL
         description: ''
         percent: 40
