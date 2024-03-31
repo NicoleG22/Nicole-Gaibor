@@ -1,7 +1,7 @@
 ---
 title: Netflix Movies
 date: '2024-03-30'
-summary: DataCamp project duplicate. Analysis of duration of netflix movies through
+summary: DataCamp project duplicate. Analysis of duration of netflix movies through the years.
 ---
 
 
@@ -31,4 +31,4 @@ pipx install academic
 academic import 'notebooks/notebook_netflix.ipynb' --verbose
 ```
 
-The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
+<!-- The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. -->
