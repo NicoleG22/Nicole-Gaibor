@@ -1,24 +1,24 @@
 ---
 title: Netflix Movies
 date: '2024-03-30'
-summary: DataCamp project duplicate
+summary: DataCamp project duplicate. Analysis of duration of netflix movies through
 ---
 
-<!-- 
+
 ```python
 from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+Image('https://stock.adobe.com/search?k=movie+icon&asset_id=251510780')
 ```
 
     
-![png](output_1_0.png)
+![jpg](movies.jpg)
     
 
 ```python
 print("Welcome to Academic!")
 ```
 
-    Welcome to Academic! -->
+    Welcome to Academic!
 
 ## Introduction
 
