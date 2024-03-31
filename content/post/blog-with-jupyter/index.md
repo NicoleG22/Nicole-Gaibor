@@ -5,10 +5,10 @@ summary: DataCamp project duplicate. Analysis of duration of netflix movies thro
 ---
 
 
-```python
+<!-- ```python
 from IPython.core.display import Image
 Image('https://stock.adobe.com/search?k=movie+icon&asset_id=251510780')
-```
+``` -->
 
     
 ![jpg](movies.jpg)
