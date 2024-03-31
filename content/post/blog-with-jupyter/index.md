@@ -14,11 +14,11 @@ Image('https://stock.adobe.com/search?k=movie+icon&asset_id=251510780')
 ![jpg](movies.jpg)
     
 
-```python
+<!-- ```python
 print("Welcome to Academic!")
 ```
 
-    Welcome to Academic!
+    Welcome to Academic! -->
 
 ## Introduction
 
@@ -28,7 +28,7 @@ Netflix started in 1997 as a rental service since exploded into one of the large
 
 ```bash
 pipx install academic
-academic import 'notebooks/notebook.ipynb' content/post/ --verbose
+academic import 'notebooks/notebook_netflix.ipynb' --verbose
 ```
 
 The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
