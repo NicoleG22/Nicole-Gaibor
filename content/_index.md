@@ -62,6 +62,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Institutional Performance Index Quantitative Analyst
+          company: Instituto Nacional de Evaluación Educativa
+          company_url: ''
+          #company_logo: urs
+          location: Quito, Ecuador
+          date_start: '2024-04-08'
+          date_end: Current
+          description: |2-
+              Responsibilities include:
+              * Research on the country's educational standards and analysis for the construction of institutional evaluation indexes
+              * Descriptive analysis of the database of school student assessment results
+              * Development of a methodological proposal for the construction of the institutional performan index
         - title: Project Analyst
           company: Unidad del Registro Social
           company_url: ''
