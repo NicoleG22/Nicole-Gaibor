@@ -68,7 +68,7 @@ sections:
           #company_logo: urs
           location: Quito, Ecuador
           date_start: '2024-04-08'
-          date_end: Current
+          date_end: 
           description: |2-
               Responsibilities include:
               * Research on the country's educational standards and analysis for the construction of institutional evaluation indexes
