@@ -41,7 +41,7 @@
   #- 教程
 ---
 
-#```python
+<!-- #```python
 #import libr
 #print('hello')
 ```
@@ -107,4 +107,4 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license. -->
