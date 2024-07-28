@@ -171,11 +171,11 @@ $$
 
 {{< /math >}}
 
-### Diagrams
+<!-- ### Diagrams
 
 Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the `diagram` option in your `config/_default/params.toml` file or by adding `diagram: true` to your page front matter.
 
-An example **flowchart**:
+<!-- An example **flowchart**:
 
     ```mermaid
     graph TD
@@ -183,9 +183,9 @@ An example **flowchart**:
     B --> C{Decision}
     C -->|One| D[Result 1]
     C -->|Two| E[Result 2]
-    ```
+    ```-->
 
-renders as
+<!--renders as 
 
 ```mermaid
 graph TD
@@ -193,9 +193,9 @@ A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
-```
+```-->
 
-An example **sequence diagram**:
+<!--An example **sequence diagram**:
 
     ```mermaid
     sequenceDiagram
@@ -207,9 +207,9 @@ An example **sequence diagram**:
     John-->>Alice: Great!
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
-    ```
+    ```-->
 
-renders as
+<!--renders as
 
 ```mermaid
 sequenceDiagram
@@ -221,9 +221,9 @@ Note right of John: Rational thoughts!
 John-->>Alice: Great!
 John->>Bob: How about you?
 Bob-->>John: Jolly good!
-```
+```-->
 
-An example **Gantt diagram**:
+<!--An example **Gantt diagram**:
 
     ```mermaid
     gantt
@@ -234,9 +234,9 @@ An example **Gantt diagram**:
     Parallel 2   :         des4, after des1, 1d
     Parallel 3   :         des5, after des3, 1d
     Parallel 4   :         des6, after des4, 1d
-    ```
+    ```-->
 
-renders as
+<!--renders as
 
 ```mermaid
 gantt
@@ -247,9 +247,9 @@ Parallel 1   :         des3, after des1, 1d
 Parallel 2   :         des4, after des1, 1d
 Parallel 3   :         des5, after des3, 1d
 Parallel 4   :         des6, after des4, 1d
-```
+```-->
 
-An example **class diagram**:
+<!--An example **class diagram**:
 
     ```mermaid
     classDiagram
@@ -266,9 +266,9 @@ An example **class diagram**:
     Class01 : int chimp
     Class01 : int gorilla
     Class08 <--> C2: Cool label
-    ```
+    ```-->
 
-renders as
+<!--renders as
 
 ```mermaid
 classDiagram
@@ -284,10 +284,10 @@ Class07 : Object[] elementData
 Class01 : size()
 Class01 : int chimp
 Class01 : int gorilla
-Class08 <--> C2: Cool label
+Class08 <--> C2: Cool label-->
 ```
 
-An example **state diagram**:
+<!--An example **state diagram**:
 
     ```mermaid
     stateDiagram
@@ -297,9 +297,9 @@ An example **state diagram**:
     Moving --> Still
     Moving --> Crash
     Crash --> [*]
-    ```
+    ```-->
 
-renders as
+<!--renders as
 
 ```mermaid
 stateDiagram
@@ -309,9 +309,9 @@ Still --> Moving
 Moving --> Still
 Moving --> Crash
 Crash --> [*]
-```
+```-->
 
-### Todo lists
+<!--### Todo lists
 
 You can even write your todo lists in Markdown too:
 
@@ -373,18 +373,18 @@ renders as
 
 Academic enables you to use a wide range of [icons from _Font Awesome_ and _Academicons_](https://docs.hugoblox.com/getting-started/page-builder/#icons) in addition to [emojis](https://docs.hugoblox.com/content/writing-markdown-latex/#emojis).
 
-Here are some examples using the `icon` shortcode to render icons:
+#Here are some examples using the `icon` shortcode to render icons:
 
-```markdown
-{{</* icon name="terminal" pack="fas" */>}} Terminal  
-{{</* icon name="python" pack="fab" */>}} Python  
-{{</* icon name="r-project" pack="fab" */>}} R
+#```markdown
+#{{</* icon name="terminal" pack="fas" */>}} Terminal  
+#{{</* icon name="python" pack="fab" */>}} Python  
+#{{</* icon name="r-project" pack="fab" */>}} R
 ```
 
 renders as
 
-{{< icon name="terminal" pack="fas" >}} Terminal  
-{{< icon name="python" pack="fab" >}} Python  
-{{< icon name="r-project" pack="fab" >}} R
+#{{< icon name="terminal" pack="fas" >}} Terminal  
+#{{< icon name="python" pack="fab" >}} Python  
+#{{< icon name="r-project" pack="fab" >}} R
 
-### Did you find this page helpful? Consider sharing it 🙌 -->
+### Did you find this page helpful? Consider sharing it 🙌 --> 
